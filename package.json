@@ -32,7 +32,7 @@
     "@fortawesome/fontawesome-free": "^7.1.0",
     "@googleapis/drive": "^19.2.0",
     "@googleapis/sheets": "^12.0.0",
-    "@huggingface/inference": "^4.13.3",
+    "@huggingface/inference": "^4.13.4",
     "@langchain/community": "^0.3.58",
     "@langchain/core": "^0.3.79",
     "@langchain/mongodb": "0.1.1",
